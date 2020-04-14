@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "cd server & python server.py"
+    "start-backend": "cd server & python server.py",
+    "start-frontend" : "cd dashboard & yarn start",
+    "install-frontend" :"cd dashboard & yarn"
   },
   "repository": {
     "type": "git",
