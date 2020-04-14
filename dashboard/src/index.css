@@ -1,0 +1,24 @@
+@import "~antd/dist/antd.css";
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background: #dddddd;
+}
+::-webkit-scrollbar-thumb {
+  background: #999;
+  border-radius: 10px;
+}
+
+.app {
+  height: 100vh;
+}
+.Content {
+  overflow-y: auto;
+  margin-top: 64px;
+  padding: 1.5rem 5rem;
+}
