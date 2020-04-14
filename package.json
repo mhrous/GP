@@ -1,0 +1,21 @@
+{
+  "name": "GP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd server & python server.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhrous/GP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhrous/GP/issues"
+  },
+  "homepage": "https://github.com/mhrous/GP#readme"
+}
