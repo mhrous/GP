@@ -1,12 +1,13 @@
 from ntpath import basename
 
 from flask import Flask, jsonify
+from flask_cors import CORS
 
 from HELP.file_tool import get_file_from_folder
 from constants import CONSTANTS
 
 app = Flask(__name__, static_folder='static', static_url_path="/static")
-
+CORS(app)
 
 @app.route("/problems", methods=['GET'])
 def get_problems():

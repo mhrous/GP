@@ -1,7 +1,8 @@
 import React from "react";
 import { Layout, Menu } from "antd";
+import { Content } from "./component";
 
-const { Header, Content } = Layout;
+const { Header, Content: ContentFromAntd } = Layout;
 function App() {
   return (
     <Layout className="app">
@@ -12,7 +13,9 @@ function App() {
           <Menu.Item key="3">nav 3</Menu.Item>
         </Menu>
       </Header>
-      <Content className="Content"></Content>
+      <ContentFromAntd className="Content">
+        <Content />
+      </ContentFromAntd>
     </Layout>
   );
 }
