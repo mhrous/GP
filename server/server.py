@@ -22,10 +22,10 @@ def get_problems():
         image_ocr_text_file_path = f'./Data/ocr_text/{image_name_without_addition}.txt'
         image_correct_text_file_path = f'./Data/correct_text/{image_name_without_addition}.txt'
 
-        ocr_file = open(image_ocr_text_file_path, "r")
+        ocr_file = open(image_ocr_text_file_path, "r",encoding="utf8")
         ocr_text = ocr_file.read()
         ocr_file.close()
-        correct_file = open(image_correct_text_file_path, "r")
+        correct_file = open(image_correct_text_file_path, "r",encoding="utf8")
         correct_text = correct_file.read()
         correct_file.close()
         result[image_name_without_addition] = {
@@ -45,7 +45,7 @@ def set_problems():
 
     image_name_without_addition = data["image_name"].split('.')[0]
     image_correct_text_file_path = f'./Data/correct_text/{image_name_without_addition}.txt'
-    with open(image_correct_text_file_path,'a') as file:
+    with open(image_correct_text_file_path,'w',encoding="utf8") as file:
         file.write(data['correct_text'])
 
     return jsonify(data)

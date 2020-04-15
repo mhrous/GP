@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import axios from "axios";
 import { Drawer } from "antd";
 
-import ProblemCard from "./ProblemCard";
+import ProblemCard from "./problemCard";
 import DrawerContent from "./DrawerContent";
 class Content extends Component {
   state = {

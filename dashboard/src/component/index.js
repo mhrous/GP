@@ -1,5 +1,5 @@
 import Content from "./Content"
-import ProblemCard from './ProblemCard'
+import ProblemCard from './problemCard'
 
 export {
     Content,
