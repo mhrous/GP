@@ -2,6 +2,7 @@ from ntpath import basename
 
 from flask import Flask, jsonify
 from flask_cors import CORS
+from flask import request
 
 from HELP.file_tool import get_file_from_folder
 from constants import CONSTANTS
@@ -40,8 +41,14 @@ def get_problems():
 
 @app.route('/problems', methods=['POST'])
 def set_problems():
-    pass
+    data = request.json['body']
 
+    image_name_without_addition = data["image_name"].split('.')[0]
+    image_correct_text_file_path = f'./Data/correct_text/{image_name_without_addition}.txt'
+    with open(image_correct_text_file_path,'a') as file:
+        file.write(data['correct_text'])
+
+    return jsonify(data)
 
 @app.route("/keywords", methods=["GET"])
 def get_keywords():

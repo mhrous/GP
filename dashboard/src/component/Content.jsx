@@ -3,6 +3,7 @@ import axios from "axios";
 import { Drawer } from "antd";
 
 import ProblemCard from "./ProblemCard";
+import DrawerContent from "./DrawerContent";
 class Content extends Component {
   state = {
     data: {},
@@ -13,11 +14,13 @@ class Content extends Component {
   componentDidMount() {
     axios.get("http://localhost:3001/problems").then((data) => {
       this.setState({ data: data.data, keys: Object.keys(data.data) });
+      console.log(data.data);
     });
   }
 
   onClose = () => {
     this.setState({ visible: false, selected: null });
+    this.postData();
   };
   onCardClick = (key) => {
     this.setState({ selected: key, visible: true });
@@ -35,10 +38,32 @@ class Content extends Component {
     }
 
     if (e.key === "ArrowRight" || e.key === "ArrowLeft") {
-      console.log(selected, index);
+      this.postData();
       this.setState({ selected });
+
     }
   };
+
+  handleTextChange = (e) => {
+    const { data, selected } = this.state;
+    data[selected].correct_text = e;
+    this.setState({ selected });
+  };
+
+  postData = () => {
+    const { data, selected } = this.state;
+
+    if (!selected) return;
+
+    const obj = data[selected];
+
+    axios.post("http://localhost:3001/problems", {
+      body: {
+        ...obj,
+      },
+    });
+  };
+
   render() {
     const { data, keys, visible, selected } = this.state;
     return (
@@ -65,7 +90,12 @@ class Content extends Component {
           onClose={this.onClose}
           visible={visible}
           placement={"bottom"}
-        ></Drawer>
+        >
+          <DrawerContent
+            dataSelect={data[selected] || {}}
+            handleTextChange={this.handleTextChange}
+          />
+        </Drawer>
       </div>
     );
   }
