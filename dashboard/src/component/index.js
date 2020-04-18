@@ -1,7 +1,4 @@
-import Content from "./Content"
-import ProblemCard from './problemCard'
+import Content from "./Content";
+import ProblemCard from "./ProblemCard";
 
-export {
-    Content,
-    ProblemCard
-}
+export { Content, ProblemCard };

@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import axios from "axios";
 import { Drawer } from "antd";
 
-import ProblemCard from "./problemCard";
+import ProblemCard from "./ProblemCard";
 import DrawerContent from "./DrawerContent";
 class Content extends Component {
   state = {
@@ -40,7 +40,6 @@ class Content extends Component {
     if (e.key === "ArrowRight" || e.key === "ArrowLeft") {
       this.postData();
       this.setState({ selected });
-
     }
   };
 
