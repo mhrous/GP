@@ -11,6 +11,7 @@ class Content extends Component {
     selected: null,
     visible: false,
   };
+  update = false;
   componentDidMount() {
     axios.get("http://localhost:3001/problems").then((data) => {
       this.setState({ data: data.data, keys: Object.keys(data.data) });
@@ -24,6 +25,7 @@ class Content extends Component {
   };
   onCardClick = (key) => {
     this.setState({ selected: key, visible: true });
+    this.update = false;
   };
   handleKeyUp = (e) => {
     let { selected, keys } = this.state;
@@ -47,20 +49,26 @@ class Content extends Component {
     const { data, selected } = this.state;
     data[selected].correct_text = e;
     this.setState({ selected });
+    this.update = true;
   };
 
   postData = () => {
+    if (!this.update) return;
     const { data, selected } = this.state;
 
     if (!selected) return;
 
     const obj = data[selected];
 
-    axios.post("http://localhost:3001/problems", {
-      body: {
-        ...obj,
-      },
-    });
+    axios
+      .post("http://localhost:3001/problems", {
+        body: {
+          ...obj,
+        },
+      })
+      .then((e) => {
+        this.update = false;
+      });
   };
 
   render() {

@@ -1,17 +1,9 @@
 import React, { Fragment } from "react";
-import { Row, Input } from "antd";
+import { Row, Card } from "antd";
+import ReactJson from "react-json-view";
 
-const { TextArea } = Input;
-
-const DrawerContent = ({
-  image_path,
-  ocr_text,
-  handleTextChange,
-  correctText,
-  dataSelect,
-}) => (
+const DrawerContent = ({ handleTextChange, dataSelect }) => (
   <Fragment>
-    {console.log(ocr_text, correctText)}
     <Row justify="center">
       <img
         src={dataSelect["image_path"]}
@@ -37,6 +29,22 @@ const DrawerContent = ({
         size="large"
         value={dataSelect["ocr_text"]}
       />
+    </Row>
+    <Row justify="center">
+      <Card title="mahad nlp ocr" style={{ width: 300 }}>
+        <ReactJson src={dataSelect["nlp_mahad_ocr_text"]} />
+      </Card>
+      <Card title="mahad nlp correct" style={{ width: 300 }}>
+        <ReactJson src={dataSelect["nlp_mahad_correct_text"]} />
+      </Card>
+    </Row>
+    <Row justify="center">
+      <Card title="mahrous nlp ocr" style={{ width: 300 }}>
+        <ReactJson src={dataSelect["nlp_mahrous_ocr_text"]} />
+      </Card>
+      <Card title="mahrous nlp correct" style={{ width: 300 }}>
+        <ReactJson src={dataSelect["nlp_mahrous_correct_text"]} />
+      </Card>
     </Row>
   </Fragment>
 );

@@ -1,3 +1,4 @@
+import json
 from ntpath import basename
 
 from flask import Flask, jsonify
@@ -13,6 +14,12 @@ CORS(app)
 
 @app.route("/problems", methods=['GET'])
 def get_problems():
+    def read_file(path="", _type="txt"):
+        file = open(path, "r", encoding="utf8")
+        data = file.read()
+        file.close()
+        return data
+
     image_path_list = get_file_from_folder('./static')
 
     result = {}
@@ -22,18 +29,25 @@ def get_problems():
         image_path = f'http://localhost:3001/static/{image_name}'
         image_ocr_text_file_path = f'./Data/ocr_text/{image_name_without_addition}.txt'
         image_correct_text_file_path = f'./Data/correct_text/{image_name_without_addition}.txt'
-
-        ocr_file = open(image_ocr_text_file_path, "r", encoding="utf8")
-        ocr_text = ocr_file.read()
-        ocr_file.close()
-        correct_file = open(image_correct_text_file_path, "r", encoding="utf8")
-        correct_text = correct_file.read()
-        correct_file.close()
+        image_nlp_mahad_ocr_text_file_path = f'./Data/nlp_ocr_text/mahad/{image_name_without_addition}.txt'
+        image_nlp_mahad_correct_text_file_path = f'./Data/nlp_correct_text/mahad/{image_name_without_addition}.txt'
+        image_nlp_mahrous_ocr_text_file_path = f'./Data/nlp_ocr_text/mahrous/{image_name_without_addition}.txt'
+        image_nlp_mahrous_correct_text_file_path = f'./Data/nlp_correct_text/mahrous/{image_name_without_addition}.txt'
+        ocr_text = read_file(image_ocr_text_file_path)
+        correct_text = read_file(image_correct_text_file_path)
+        nlp_mahad_ocr_text = json.loads(read_file(image_nlp_mahad_ocr_text_file_path))
+        nlp_mahad_correct_text = json.loads(read_file(image_nlp_mahad_correct_text_file_path))
+        nlp_mahrous_ocr_text = json.loads(read_file(image_nlp_mahrous_ocr_text_file_path))
+        nlp_mahrous_correct_text = json.loads(read_file(image_nlp_mahrous_correct_text_file_path))
         result[image_name_without_addition] = {
             "correct_text": correct_text,
             "ocr_text": ocr_text,
             "image_path": image_path,
-            "image_name": image_name
+            "image_name": image_name,
+            "nlp_mahad_ocr_text": nlp_mahad_ocr_text,
+            "nlp_mahad_correct_text": nlp_mahad_correct_text,
+            "nlp_mahrous_ocr_text": nlp_mahrous_ocr_text,
+            "nlp_mahrous_correct_text": nlp_mahrous_correct_text
         }
     return jsonify(result)
 
