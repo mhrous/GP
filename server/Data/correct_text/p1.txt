@@ -10,9 +10,9 @@
 1. حركة مستقيمة منتظمة 
 2. مسار الحركة 
 3. v avg=d/t 
-v avg 36km/1h=36 x 1000m/1 x 3600s =10m/s
-4. d=v avg x t
-d=10 x 1/2 x 3600=18000m
+vavg=36km/1h=36x1000m/1x3600s =10m/s
+4. d=vavgxt
+d=10x1/2x3600=18000m
 طريقة ثانية : 
-d=v avg x t
-d=36 x 0.5=18km
+d=vavgxt
+d=36x0.5=18km

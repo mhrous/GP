@@ -2,18 +2,18 @@ import React, { Component } from "react";
 import axios from "axios";
 import { Drawer } from "antd";
 
-import ProblemCard from "./ProblemCard";
+import ProblemCard from "./problemCard";
 import DrawerContent from "./DrawerContent";
 class Content extends Component {
   state = {
     data: {},
     keys: [],
     selected: null,
-    visible: false,
+    visible: false
   };
   update = false;
   componentDidMount() {
-    axios.get("http://localhost:3001/problems").then((data) => {
+    axios.get("http://localhost:3001/problems").then(data => {
       this.setState({ data: data.data, keys: Object.keys(data.data) });
       console.log(data.data);
     });
@@ -23,11 +23,11 @@ class Content extends Component {
     this.setState({ visible: false, selected: null });
     this.postData();
   };
-  onCardClick = (key) => {
+  onCardClick = key => {
     this.setState({ selected: key, visible: true });
     this.update = false;
   };
-  handleKeyUp = (e) => {
+  handleKeyUp = e => {
     let { selected, keys } = this.state;
     let index = keys.indexOf(selected);
     if (!selected) return;
@@ -45,7 +45,7 @@ class Content extends Component {
     }
   };
 
-  handleTextChange = (e) => {
+  handleTextChange = e => {
     const { data, selected } = this.state;
     data[selected].correct_text = e;
     this.setState({ selected });
@@ -63,10 +63,10 @@ class Content extends Component {
     axios
       .post("http://localhost:3001/problems", {
         body: {
-          ...obj,
-        },
+          ...obj
+        }
       })
-      .then((e) => {
+      .then(e => {
         this.update = false;
       });
   };
@@ -75,10 +75,10 @@ class Content extends Component {
     const { data, keys, visible, selected } = this.state;
     return (
       <div
-        onKeyUp={(e) => this.handleKeyUp(e)}
+        onKeyUp={e => this.handleKeyUp(e)}
         style={{ display: "flex", flexWrap: "wrap", justifyContent: "center" }}
       >
-        {keys.map((key) => {
+        {keys.map(key => {
           const { image_path, image_name } = data[key];
           return (
             <div onClick={() => this.onCardClick(key)} key={key}>

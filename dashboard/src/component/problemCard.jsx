@@ -12,7 +12,7 @@ const ProblemCard = ({ path, title, description }) => (
           height: "120px",
           overflow: "hidden",
           position: "relative",
-          background: "#001529",
+          background: "#001529"
         }}
       >
         <img
@@ -21,7 +21,7 @@ const ProblemCard = ({ path, title, description }) => (
             width: "100%",
             position: "absolute",
             top: "50%",
-            transform: "translateY(-50%)",
+            transform: "translateY(-50%)"
           }}
           src={path}
         />
