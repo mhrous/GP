@@ -46,7 +46,7 @@ def main(text):
     unknown_value = ''
 
     for k, v in res.items():
-        for key, value in unit.data.items():
+        for key, value in unit.items():
             for i in value['for']:
                 if len(re.findall(r'[\D]+', str(k))) == 0 and re.findall(r'[\D]+', str(k))[0] != key and len(re.findall(r'[\D]+', str(v))) == 0 and re.findall(r'[\D]+', str(v))[0] != i['symbol'] and k == '?':
                     res[k] = i['symbol']
@@ -72,7 +72,7 @@ def main(text):
             val = k
             Unit = k
             sym = v
-            for key, value in unit.data.items():
+            for key, value in unit.items():
                 for i in value['for']:
                     if re.findall(r'[\D]+', str(v))[0] == i['symbol']:
                         quantity = i['name']
@@ -80,14 +80,14 @@ def main(text):
             val = re.findall(r'^\d+', str(k))[0]
             Unit = re.findall(r'\D+/.*|\D+\^\d|[\D]+', str(k))[0]
             sym = v
-            for key, value in unit.data.items():
+            for key, value in unit.items():
                 for i in value['for']:
                     if Unit == key:
                         quantity = i['name']
         elif v == '?' and k != '?':
             val = re.findall(r'^\d+', str(k))[0]
             Unit = re.findall(r'\D+/.*|\D+\^\d|[\D]+', str(k))[0]
-            for key, value in unit.data.items():
+            for key, value in unit.items():
                 for i in value['for']:
                     if Unit == key:
                         quantity = i['name']
@@ -96,7 +96,7 @@ def main(text):
             val = v
             Unit = v
             sym = k
-            for key, value in unit.data.items():
+            for key, value in unit.items():
                 for i in value['for']:
                     if k == i['symbol']:
                         quantity = i['name']

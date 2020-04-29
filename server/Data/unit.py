@@ -1,160 +1,113 @@
-{
- "cells": [
-  {
-   "cell_type": "code",
-   "execution_count": 2,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "data = {\n",
-    "    \"m/s\": {\n",
-    "        \"for\": [\n",
-    "            {\"name\": \"سرعة\", \"symbol\": \"V\"}\n",
-    "        ],\n",
-    "    },\n",
-    "    \"m.s^-1\": {\n",
-    "        \"for\": [\n",
-    "            {\"name\": \"سرعة\", \"symbol\": \"V\"}\n",
-    "        ],\n",
-    "    },\n",
-    "    \"km/h\": {\n",
-    "        \"for\": [\n",
-    "            {\"name\": \"سرعة\", \"symbol\": \"V\"}\n",
-    "        ],\n",
-    "    },\n",
-    "    \"m\": {\n",
-    "        \"for\": [\n",
-    "            {\"name\": \"مسافة\", \"symbol\": \"d\"},\n",
-    "            {\"name\": \"عمق\", \"symbol\": \"h\"},\n",
-    "            {\"name\": \"طول\", \"symbol\": \"l\"}\n",
-    "        ],\n",
-    "    },\n",
-    "    \"s\": {\n",
-    "        \"for\": [\n",
-    "            {\"name\": \"زمن\", \"symbol\": \"t\"}\n",
-    "        ],\n",
-    "    },\n",
-    "    \"min\": {\n",
-    "        \"for\": [\n",
-    "            {\"name\": \"زمن\", \"symbol\": \"t\"}\n",
-    "        ],\n",
-    "    },\n",
-    "    \"h\": {\n",
-    "        \"for\": [\n",
-    "            {\"name\": \"زمن\", \"symbol\": \"t\"}\n",
-    "        ],\n",
-    "    },  \n",
-    "    \"kg\": {\n",
-    "        \"for\": [\n",
-    "            {\"name\": \"كتلة\", \"symbol\": \"m\"}\n",
-    "        ],\n",
-    "    },\n",
-    "    \"m/s^2\": {\n",
-    "        \"for\": [\n",
-    "            {\"name\": \"تسارع\", \"symbol\": \"a\"}\n",
-    "        ],\n",
-    "    },\n",
-    "    \"m.s^-2\": {\n",
-    "        \"for\": [\n",
-    "            {\"name\": \"تسارع\", \"symbol\": \"a\"}\n",
-    "        ],\n",
-    "    },\n",
-    "    \"N\": {\n",
-    "        \"for\": [\n",
-    "            {\"name\": \"ثقل\", \"symbol\": \"w\"},\n",
-    "            {\"name\": \"قوة\", \"symbol\": \"F\"}\n",
-    "        ],\n",
-    "    },\n",
-    "    \"J\": {\n",
-    "        \"for\": [\n",
-    "            {\"name\": \"عمل\", \"symbol\": \"W\"},\n",
-    "            {\"name\": \"طاقة حركية\", \"symbol\": \"Ek\"},\n",
-    "            {\"name\": \"طاقة كامنة\", \"symbol\": \"Ep\"},\n",
-    "            {\"name\": \"طاقة كلية\", \"symbol\": \"E\"}\n",
-    "        ],\n",
-    "    },\n",
-    "    \"w\": {\n",
-    "       \n",
-    "        \"for\": [\n",
-    "            {\"name\": \"اسطاعة\", \"symbol\": \"\"}\n",
-    "        ],\n",
-    "    },\n",
-    "    \"N.m\": {\n",
-    "        \"for\": [\n",
-    "            {\"name\": \"عزم\", \"symbol\": \"T\"}\n",
-    "        ],\n",
-    "    },\n",
-    "    \"Hz\": {\n",
-    "        \"for\": [\n",
-    "            {\"name\": \"تواتر\", \"symbol\": \"f\"}\n",
-    "        ],\n",
-    "    },\n",
-    "    \"m^2\": {\n",
-    "        \"for\": [\n",
-    "            {\"name\": \"مساحة\", \"symbol\": \"s\"}\n",
-    "        ],\n",
-    "    },\n",
-    "    \"m^3\": {\n",
-    "        \"for\": [\n",
-    "            {\"name\": \"حجم\", \"symbol\": \"V\"}\n",
-    "        ],\n",
-    "    },\n",
-    "    \"Pa\": {\n",
-    "        \n",
-    "        \"for\": [\n",
-    "            {\"name\": \"الضغط\", \"symbol\": \"p\"}\n",
-    "        ],\n",
-    "    },\n",
-    "    \"kg/m^3\": {\n",
-    "       \n",
-    "        \"for\": [\n",
-    "            {\"name\": \"كتلته الحجمية\", \"symbol\": \"P\"}\n",
-    "        ],\n",
-    "    },\n",
-    "    \"kg.m^-3\": {\n",
-    "       \n",
-    "        \"for\": [\n",
-    "            {\"name\": \"كتلته الحجمية\", \"symbol\": \"P\"}\n",
-    "        ],\n",
-    "    },\n",
-    "\n",
-    "}\n"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python 3",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.7.5"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 2
+data = {
+    "m/s": {
+        "for": [
+            {"name": "سرعة", "symbol": "V"}
+        ],
+    },
+    "m.s^-1": {
+        "for": [
+            {"name": "سرعة", "symbol": "V"}
+        ],
+    },
+    "km/h": {
+        "for": [
+            {"name": "سرعة", "symbol": "V"}
+        ],
+    },
+    "m": {
+        "for": [
+            {"name": "مسافة", "symbol": "d"},
+            {"name": "عمق", "symbol": "h"},
+            {"name": "طول", "symbol": "l"}
+        ],
+    },
+    "s": {
+        "for": [
+            {"name": "زمن", "symbol": "t"}
+        ],
+    },
+    "min": {
+        "for": [
+            {"name": "زمن", "symbol": "t"}
+        ],
+    },
+    "h": {
+        "for": [
+            {"name": "زمن", "symbol": "t"}
+        ],
+    },
+    "kg": {
+        "for": [
+            {"name": "كتلة", "symbol": "m"}
+        ],
+    },
+    "m/s^2": {
+        "for": [
+            {"name": "تسارع", "symbol": "a"}
+        ],
+    },
+    "m.s^-2": {
+        "for": [
+            {"name": "تسارع", "symbol": "a"}
+        ],
+    },
+    "N": {
+        "for": [
+            {"name": "ثقل", "symbol": "w"},
+            {"name": "قوة", "symbol": "F"}
+        ],
+    },
+    "J": {
+        "for": [
+            {"name": "عمل", "symbol": "W"},
+            {"name": "طاقة حركية", "symbol": "Ek"},
+            {"name": "طاقة كامنة", "symbol": "Ep"},
+            {"name": "طاقة كلية", "symbol": "E"}
+        ],
+    },
+    "w": {
+
+        "for": [
+            {"name": "اسطاعة", "symbol": ""}
+        ],
+    },
+    "N.m": {
+        "for": [
+            {"name": "عزم", "symbol": "T"}
+        ],
+    },
+    "Hz": {
+        "for": [
+            {"name": "تواتر", "symbol": "f"}
+        ],
+    },
+    "m^2": {
+        "for": [
+            {"name": "مساحة", "symbol": "s"}
+        ],
+    },
+    "m^3": {
+        "for": [
+            {"name": "حجم", "symbol": "V"}
+        ],
+    },
+    "Pa": {
+
+        "for": [
+            {"name": "الضغط", "symbol": "p"}
+        ],
+    },
+    "kg/m^3": {
+
+        "for": [
+            {"name": "كتلته الحجمية", "symbol": "P"}
+        ],
+    },
+    "kg.m^-3": {
+
+        "for": [
+            {"name": "كتلته الحجمية", "symbol": "P"}
+        ],
+    },
+
 }

@@ -1,7 +1,7 @@
 import React, { Fragment } from "react";
 import { Row, Card } from "antd";
 import ReactJson from "react-json-view";
-
+import Math from "./Math";
 const DrawerContent = ({ handleTextChange, dataSelect }) => (
   <Fragment>
     <Row justify="center">
