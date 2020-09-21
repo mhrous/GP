@@ -5,8 +5,7 @@ from OCR.pre_processing import pre_processing
 
 
 def pytesseract_ocr(image):
-    custom_config = r'-l eng+ara'
-    return pytesseract.image_to_string(image, config=custom_config)
+    return pytesseract.image_to_string(image, lang='ara+eng')
 
 
 def ocr(image_path):

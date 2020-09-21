@@ -1,0 +1,42 @@
+{
+ 
+
+  "ثوابت الحركة": [
+    [
+      {"type": "text","value": "لدينا تابع المطال "},
+      {"type": "latex","value": "$$x = 0.1cos(\\pi + \\pi)$$"},
+      {"type": "text","value": ",نحن نعلم ان تابع المطال يكون من الشكل "},
+      {"type": "latex","value": "$$x = x_{max} cos(\\omega t + \\varphi )$$"},
+      {"type": "text","value": "بالمقارنة نجد ان"},
+      {"type": "latex","value": "$$ x_{max} = 0.1 m ,\\omega = \\pi rad.s^{-1}, \\varphi = \\pi rad$$"}
+    ]
+  ],
+  "دور": [
+    [
+      {
+        "type": "text",
+        "value": "ي البداية نحن نعلم ان  "
+      },
+      {
+        "type": "latex",
+        "value": "$$T_0 = \\frac{2 \\pi}{\\omega}$$"
+      },
+      {
+        "type": "text",
+        "value": "ولدينا "
+      },
+      {
+        "type": "latex",
+        "value": "$$\\omega =\\pi $$"
+      },
+      {
+        "type": "text",
+        "value": "منه بعض التويض والاختصار  مجد"
+      },
+      {
+        "type": "latex",
+        "value": "$$ t=T_{0} = 2 s"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,1 @@
+[{"quantity": "", "value": "?", "unit": "?", "symbol": "Hz"}, {"quantity": "", "value": "?", "unit": "?", "symbol": "cm"}, {"quantity": "\u062a\u0648\u0627\u062a\u0631", "value": "445", "unit": "", "symbol": "f"}, {"quantity": "\u062a\u0648\u0627\u062a\u0631", "value": "110", "unit": "", "symbol": "L"}]

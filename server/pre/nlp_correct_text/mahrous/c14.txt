@@ -1,0 +1,1 @@
+[{"quantity": "\u0642\u0648\u0629", "value": "?", "unit": "?", "symbol": "F1"}, {"quantity": "\u0642\u0648\u0629", "value": "?", "unit": "?", "symbol": "F2"}, {"quantity": "\u0642\u0648\u0629", "value": "6", "unit": "cm", "symbol": "d2"}, {"quantity": "\u0642\u0648\u0629", "value": "2", "unit": "cm", "symbol": "d1"}]

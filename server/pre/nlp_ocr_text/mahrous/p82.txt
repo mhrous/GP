@@ -1,0 +1,1 @@
+[{"quantity": "", "value": "?", "unit": "?", "symbol": "Shin"}, {"quantity": "", "value": "?", "unit": "?", "symbol": "ks"}, {"quantity": "", "value": "?", "unit": "?", "symbol": "bilan"}, {"quantity": "", "value": "?", "unit": "?", "symbol": "-2"}, {"quantity": "\u062a\u0633\u0627\u0631\u0639", "value": "?", "unit": "?", "symbol": "a"}]

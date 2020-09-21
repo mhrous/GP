@@ -1,0 +1,1 @@
+[{"quantity": "\u0643\u062a\u0644\u0629", "value": "800", "unit": "kg", "symbol": "m"}, {"quantity": "\u0633\u0631\u0639\u0629", "value": "10", "unit": "m/s", "symbol": "v"}, {"quantity": "\u0633\u0631\u0639\u0629", "value": "30", "unit": "m/s", "symbol": "v"}, {"quantity": "\u0632\u0645\u0646", "value": "5", "unit": "s", "symbol": "t"}]

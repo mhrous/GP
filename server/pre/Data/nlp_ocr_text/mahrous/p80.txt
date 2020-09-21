@@ -1,0 +1,1 @@
+[{"quantity": "", "value": "?", "unit": "?", "symbol": "="}, {"quantity": "", "value": "?", "unit": "?", "symbol": "=+8m."}, {"quantity": "", "value": "?", "unit": "?", "symbol": "."}, {"quantity": "", "value": "?", "unit": "?", "symbol": "ZA"}, {"quantity": "", "value": "?", "unit": "?", "symbol": "fe."}, {"quantity": "", "value": "?", "unit": "?", "symbol": "vi"}]

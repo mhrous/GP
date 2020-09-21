@@ -1,0 +1,1 @@
+[{"quantity": "", "value": "?", "unit": "?", "symbol": "gis"}, {"quantity": "", "value": "?", "unit": "?", "symbol": "Ae"}, {"quantity": "", "value": "?", "unit": "?", "symbol": "IE"}, {"quantity": "", "value": "?", "unit": "?", "symbol": "Ja"}, {"quantity": "", "value": "?", "unit": "?", "symbol": "WS"}, {"quantity": "", "value": "?", "unit": "?", "symbol": "gb"}]

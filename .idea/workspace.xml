@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a200b41b-15b7-4b06-ad1e-4b7782f708fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/c11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/c11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/c17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/c17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/c21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/c21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/c23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/c23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/c24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/c24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/c25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/c25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/c26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/c26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/c30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/c30.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/c31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/c31.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/c35.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/c35.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/img1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/img1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p32.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p33.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p33.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p34.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p34.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/correct_text/p9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/correct_text/p9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c29.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c30.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c31.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c32.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c33.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c33.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c34.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c34.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c35.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c35.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/c9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/img1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/img1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p101.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p101.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p102.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p102.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p103.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p103.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p104.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p104.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p105.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p105.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p106.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p106.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p107.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p107.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p108.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p108.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p32.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p33.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p33.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p34.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p34.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p35.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p35.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p36.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p36.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p37.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p37.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p38.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p38.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p39.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p39.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p40.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p40.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p41.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p41.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p42.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p42.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p43.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p43.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p44.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p44.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p45.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p45.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p46.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p46.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p47.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p47.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p48.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p48.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p49.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p49.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p50.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p50.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p51.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p51.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p52.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p52.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p53.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p53.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p54.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p54.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p55.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p55.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p56.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p56.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p57.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p57.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p58.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p58.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p59.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p59.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p60.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p60.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p61.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p61.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p62.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p62.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p63.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p63.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p64.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p64.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p65.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p65.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p66.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p66.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p67.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p67.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p68.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p68.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p69.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p69.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p70.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p70.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p71.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p71.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p72.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p72.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p73.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p73.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p74.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p74.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p75.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p75.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p76.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p76.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p77.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p77.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p78.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p78.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p79.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p79.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p80.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p80.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p81.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p81.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p82.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p82.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p83.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p83.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p84.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p84.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p85.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p85.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p86.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p86.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p87.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p87.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p88.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p88.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p89.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p89.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p90.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p90.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p91.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p91.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p92.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p92.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p93.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p93.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p94.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p94.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p95.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p95.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p96.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p96.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p97 - 2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p97 - 2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p97 -1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p97 -1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p98.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p98.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p99.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_correct_text/mahad/p99.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c29.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c30.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c31.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c32.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c33.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c33.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c34.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c34.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c35.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c35.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/c9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/img1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/img1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p101.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p101.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p102.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p102.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p103.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p103.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p104.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p104.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p105.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p105.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p106.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p106.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p107.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p107.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p108.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p108.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p32.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p33.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p33.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p34.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p34.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p35.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p35.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p36.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p36.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p37.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p37.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p38.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p38.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p39.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p39.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p40.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p40.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p41.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p41.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p42.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p42.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p43.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p43.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p44.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p44.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p45.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p45.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p46.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p46.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p47.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p47.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p48.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p48.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p49.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p49.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p50.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p50.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p51.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p51.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p52.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p52.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p53.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p53.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p54.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p54.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p55.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p55.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p56.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p56.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p57.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p57.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p58.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p58.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p59.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p59.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p60.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p60.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p61.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p61.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p62.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p62.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p63.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p63.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p64.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p64.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p65.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p65.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p66.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p66.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p67.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p67.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p68.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p68.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p69.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p69.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p70.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p70.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p71.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p71.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p72.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p72.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p73.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p73.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p74.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p74.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p75.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p75.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p76.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p76.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p77.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p77.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p78.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p78.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p79.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p79.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p80.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p80.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p81.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p81.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p82.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p82.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p83.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p83.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p84.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p84.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p85.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p85.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p86.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p86.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p87.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p87.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p88.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p88.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p89.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p89.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p90.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p90.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p91.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p91.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p92.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p92.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p93.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p93.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p94.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p94.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p95.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p95.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p96.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p96.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p97 - 2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p97 - 2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p97 -1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p97 -1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p98.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p98.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p99.txt" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/nlp_ocr_text/mahad/p99.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Data/unit.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/Data/unit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/NLP/MahadNLP.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/NLP/MahadNLP.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dVIET5QJRFtl2cxY3OgdTV7saU" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a200b41b-15b7-4b06-ad1e-4b7782f708fd" name="Default Changelist" comment="" />
+      <created>1592503721736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592503721736</updated>
+    </task>
+    <servers />
+  </component>
+</project>

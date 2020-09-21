@@ -1,0 +1,1 @@
+[{"quantity": "\u062d\u062c\u0645", "value": "5", "unit": "cm^3", "symbol": "V"}, {"quantity": "\u062d\u062c\u0645", "value": "?", "unit": "?", "symbol": "L"}, {"quantity": "\u0645\u0633\u0627\u062d\u0629", "value": "?", "unit": "?", "symbol": "s"}, {"quantity": "\u0645\u0633\u0627\u062d\u0629", "value": "?", "unit": "?", "symbol": "'Q2"}]
